@@ -94,6 +94,7 @@ DerivedData/
 *.tiff
 *.bmp
 *.psd
+*.mp4
 
 # Документы
 *.pdf
